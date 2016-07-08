@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>React Tutorial</title>
+    <!-- Not present in the tutorial. Just for basic styling. -->
+    <link rel="stylesheet" href="css/base.css" />
+    <link rel="stylesheet" href="css/index.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.2.0/react.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.2.0/react-dom.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.6.16/browser.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/1.6.2/remarkable.min.js"></script>
+  </head>
+  <body>
+    <div id="content"></div>
+    <!--<script type="text/babel" src="scripts/example.js"></script>-->
+    <script type="text/babel">
+      var VerseArea = React.createClass({
+        getInitialState: function() {
+          $('body').css('background-image', 'url(https://source.unsplash.com/random/800x600)');
+          return { data:[] };
+        },
+        componentDidMount: function(){
+          console.log("componentDidMount");
+          $.ajax({
+            url: this.props.url,
+            dataType: 'json',
+            type: 'Get',
+            success: function(data){
+              // console.log(data);
+              this.setState({data:data});
+            }.bind(this),
+            error: function(xhr, status, err){
+              console.error(this.props.url, status, err.toString());
+            }.bind(this)
+          });
+        },
+        render: function(){
+          return (
+            <div>
+              <Verse data={this.state.data} />
+            </div>
+          );
+        }
+      });
+      var Verse = React.createClass({
+        render: function() {
+          console.log(this.props.data);
+          var chapter = "";
+          var verse = "";
+          var chBook = "";
+          var chText = "";
+          var enBook = "";
+          var enText = "";
+          if(this.props.data.length != 0){
+            var chapter = this.props.data.chapter;
+            var verse = this.props.data.verse;
+            var chBook = this.props.data.ch.book;
+            var chText = this.props.data.ch.text;
+            var enBook = this.props.data.en.book;
+            var enText = this.props.data.en.text;
+          }
+          
+          return(
+            <div className="verse">
+              <h1>{chText}</h1>
+            </div>
+          )
+        }
+      });
+
+      ReactDOM.render(
+        <VerseArea url="/api/verse"/>,
+        document.getElementById('content')
+      );
+
+    </script>
+  </body>
+</html>

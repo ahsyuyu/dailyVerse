@@ -1,0 +1,2282 @@
+[
+ {
+  "ch": {
+   "book": "利未記",
+   "text": "在白髮的人面前，你要站起來，也要尊敬老人，又要敬畏你的神。我是耶和華。"
+  },
+  "en": {
+   "book": "Leviticus",
+   "text": "\" '{Before}Literally \"from the faces of\" old age youSingular shall get up, and youSingular shall show respect for an old person; and youSingular shall revere your God; I <transChange type=\"added\">am</transChange> Yahweh. "
+  },
+  "chapter": "19",
+  "verse": "32"
+ },
+ {
+  "ch": {
+   "book": "申命記",
+   "text": "你們當剛強壯膽，不要害怕，也不要畏懼他們，因為耶和華你的神和你同去。他必不撇下你，也不丟棄你。 "
+  },
+  "en": {
+   "book": "Deuteronomy",
+   "text": "Be strong and be courageous; you should not be afraid, and you {should not be in dread from their presence},Literally \"not you should dread from their face\" for Yahweh your God <transChange type=\"added\">is</transChange> the <transChange type=\"added\">one</transChange> going with you; he will not leave you alone and he will not forsake you.\" "
+  },
+  "chapter": "31",
+  "verse": "6"
+ },
+ {
+  "ch": {
+   "book": "尼希米記",
+   "text": "你們不要憂愁，因靠耶和華而得的喜樂是你們的力量。"
+  },
+  "en": {
+   "book": "Nehemiah",
+   "text": "Then he said to them, \"Go, eat festive food and drink sweet drinks, and send a share to those for whom nothing is prepared; for this day is holy to our lord. Do not be grieved because the joy of Yahweh is your refuge.\""
+  },
+  "chapter": "8",
+  "verse": "10b"
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "你要專心仰賴耶和華，不可倚靠自己的聰明。<br>在你一切所行的事上，都要認定他，他必指引你的路。"
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "{Trust Yahweh}Literally \"trust toward Yahweh\" with all your heart; do not lean toward your own understanding."
+  },
+  "chapter": "3",
+  "verse": "5-6"
+ },
+ {
+  "ch": {
+   "book": "傳道書",
+   "text": "事情的終局，強如事情的起頭。<br>存心忍耐的，勝過居心驕傲的。"
+  },
+  "en": {
+   "book": "Ecclesiastes",
+   "text": "The end of a matter <transChange type=\"added\">is</transChange> better than its beginning; {better to be slow to anger than hot-headed}.Literally \"<transChange type=\"added\">one who is</transChange> long of spirit <transChange type=\"added\">is</transChange> better than <transChange type=\"added\">one who is</transChange> high of spirit\""
+  },
+  "chapter": "7",
+  "verse": "8"
+ },
+ {
+  "ch": {
+   "book": "傳道書",
+   "text": "凡你手所當作的事，要盡力去作。<br>因為在你所必去的陰間，沒有工作，沒有謀算，<br>沒有知識，也沒有智慧。"
+  },
+  "en": {
+   "book": "Ecclesiastes",
+   "text": "Whatever your hand finds to do--do <transChange type=\"added\">it</transChange> with <transChange type=\"added\">all</transChange> your might; for in Sheol--where you are going--no one works, plans, knows, or thinks about anything. "
+  },
+  "chapter": "9",
+  "verse": "10"
+ },
+ {
+  "ch": {
+   "book": "傳道書",
+   "text": "你趁著年幼，衰敗的日子尚未來到，就是你所說，<br>我毫無喜樂的那些年日未曾臨近之先，當記念造你的主。"
+  },
+  "en": {
+   "book": "Ecclesiastes",
+   "text": "Remember your Creator in the days of your youth-- before the days of trouble come and the years draw near when you will say, \"I find no pleasure in them!\""
+  },
+  "chapter": "12",
+  "verse": "1"
+ },
+ {
+  "ch": {
+   "book": "何西阿書",
+   "text": "你們要為自己栽種公義，就能收割慈愛。<br>現今正是尋求耶和華的時候，你們要開墾荒地，等他臨到。"
+  },
+  "en": {
+   "book": "Hosea",
+   "text": "Sow for yourselves righteousness; {reap loyal love}.Literally \"reap according to loyal love\" Break up for yourself fallow ground; <transChange type=\"added\">it is</transChange> time to seek Yahweh so he will come and rain righteousness upon you."
+  },
+  "chapter": "10",
+  "verse": "12"
+ },
+ {
+  "ch": {
+   "book": "彌迦書",
+   "text": "世人哪，耶和華已指示你何為善。他向你所要的是什麼呢。<br>只要你行公義，好憐憫，存謙卑的心，與你的神同行。"
+  },
+  "en": {
+   "book": "Micah",
+   "text": "He has told you, O mortal, what <transChange type=\"added\">is</transChange> good, and what does Yahweh ask from you but to do justice, and to love kindness, and to walk humbly with your God?"
+  },
+  "chapter": "6",
+  "verse": "8"
+ },
+ {
+  "ch": {
+   "book": "歌林多前書",
+   "text": "使你與人不同的是誰呢。你有什麼不是領受的呢。<br>若是領受的，為何自夸，彷佛不是領受的呢。"
+  },
+  "en": {
+   "book": "First_Corinthians",
+   "text": "For who concedes you <transChange type=\"added\">superiority</transChange>? And what do you have that you did not receive? But if indeed you received <transChange type=\"added\">it</transChange>, why do you boast as <transChange type=\"added\">if you</transChange>*Here \"<transChange type=\"added\">if</transChange>\" is supplied as a component of the participle (\"receive\") which is understood as conditional did not receive <transChange type=\"added\">it</transChange>?"
+  },
+  "chapter": "4",
+  "verse": "7"
+ },
+ {
+  "ch": {
+   "book": "歌林多前書",
+   "text": "所以我親愛的弟兄們，你們務要堅固不可搖動，<br>常常竭力多作主工，因為知道你們的勞苦，在主裡面不是徒然的。"
+  },
+  "en": {
+   "book": "First_Corinthians",
+   "text": "So then, my dear brothers, be steadfast, immovable, always abounding in the work of the Lord, <transChange type=\"added\">because you</transChange>*Here \"<transChange type=\"added\">because</transChange>\" is supplied as a component of the participle (\"know\") which is understood as causal know that your labor is not <transChange type=\"added\">in</transChange> vain in the Lord. "
+  },
+  "chapter": "15",
+  "verse": "58"
+ },
+ {
+  "ch": {
+   "book": "約翰福音",
+   "text": "有了我的命令又遵守的，這人就是愛我的。<br>愛我的必蒙我父愛他，我也要愛他，並且要向他顯現。"
+  },
+  "en": {
+   "book": "John",
+   "text": "The one who has my commandments and keeps them--that one is the one who loves me. And the one who loves me will be loved by my Father, and I will love him and will reveal myself to him.\" "
+  },
+  "chapter": "14",
+  "verse": "21"
+ },
+ {
+  "ch": {
+   "book": "以弗所書",
+   "text": "所以要拿起神所賜的全副軍裝，好在磨難的日子，<br>抵擋仇敵，並且成就了一切，還能站立得住。"
+  },
+  "en": {
+   "book": "Ephesians",
+   "text": "Because of this, take up the full armor of God, in order that you may be able to resist in the evil day, and having done everything, to stand."
+  },
+  "chapter": "6",
+  "verse": "13"
+ },
+ {
+  "ch": {
+   "book": "歌羅西書",
+   "text": "你們既然接受了主基督耶穌，就當遵他而行。"
+  },
+  "en": {
+   "book": "Colossians",
+   "text": "Therefore as you have received Christ Jesus the Lord, live in him,"
+  },
+  "chapter": "2",
+  "verse": "6"
+ },
+ {
+  "ch": {
+   "book": "歌羅西書",
+   "text": "你們要思念上面的事，不要思念地上的事。"
+  },
+  "en": {
+   "book": "Colossians",
+   "text": "Set your mind on the things above, not <transChange type=\"added\">on</transChange> the things on earth."
+  },
+  "chapter": "3",
+  "verse": "2"
+ },
+ {
+  "ch": {
+   "book": "歌羅西書",
+   "text": "無論作什麼，或說話，或行事，都要奉主耶穌的名，藉著他感謝父神。"
+  },
+  "en": {
+   "book": "Colossians",
+   "text": "and everything {whatever}Literally \"if anything that\" you do in word or in deed, giving thanks <transChange type=\"added\">for</transChange> all <transChange type=\"added\">things</transChange> in the name of the Lord Jesus to God the Father through him. "
+  },
+  "chapter": "3",
+  "verse": "17"
+ },
+ {
+  "ch": {
+   "book": "帖撒羅尼迦前書",
+   "text": "弟兄們，我們勸你們敬重那在你們中間勞苦的人，<br>就是在主裡面治理你們，勸戒你們的。"
+  },
+  "en": {
+   "book": "First_Thessalonians",
+   "text": "Now we ask you, brothers, to respect those who labor among you and rule over you in the Lord and admonish you,"
+  },
+  "chapter": "5",
+  "verse": "12"
+ },
+ {
+  "ch": {
+   "book": "提摩太前書",
+   "text": "但你這屬神的人，要逃避這些事，追求公義，敬虔，信心，愛心，忍耐，溫柔。"
+  },
+  "en": {
+   "book": "First_Timothy",
+   "text": "But you, O man of God, flee from these <transChange type=\"added\">things</transChange>, and pursue righteousness, godliness, faith, love, patient endurance, gentleness."
+  },
+  "chapter": "6",
+  "verse": "11"
+ },
+ {
+  "ch": {
+   "book": "提摩太後書",
+   "text": "有可信的話說，我們若與基督同死，也必與他同活。<br>我們若能忍耐，也必和他一同作王。我們若不認他，他也必不認我們。"
+  },
+  "en": {
+   "book": "Second_Timothy",
+   "text": "The saying <transChange type=\"added\">is</transChange> trustworthy: "
+  },
+  "chapter": "2",
+  "verse": "11-12"
+ },
+ {
+  "ch": {
+   "book": "提摩太後書",
+   "text": "然而主的僕人不可爭競，只要溫溫和和的待眾人，善于教導，存心忍耐。"
+  },
+  "en": {
+   "book": "Second_Timothy",
+   "text": "And the slave of the Lord must not quarrel, but be kind toward everyone, skillful in teaching, tolerant,"
+  },
+  "chapter": "2",
+  "verse": "24"
+ },
+ {
+  "ch": {
+   "book": "提多書",
+   "text": "因為神救眾人的恩典，已經顯明出來。 <br>教訓我們除去不敬虔的心，和世俗的情欲，在今世自守，公義，敬虔度日。"
+  },
+  "en": {
+   "book": "Titus",
+   "text": "For the grace of God has appeared, bringing salvation to all people,"
+  },
+  "chapter": "2",
+  "verse": "11-12"
+ },
+ {
+  "ch": {
+   "book": "彼得前書",
+   "text": "你們要將一切的憂慮卸給神，因為他顧念你們。 "
+  },
+  "en": {
+   "book": "First_Peter",
+   "text": "casting all your cares on him, because {he cares}Literally \"it is a care to him\" for you. "
+  },
+  "chapter": "5",
+  "verse": "7"
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "你們這假冒為善的文士和法利賽人有禍了。<br>因為你們好像粉飾的墳墓，外面好看，裡面卻裝滿了死人的骨頭，和一切的污穢。<br>你們也是如此，在人前、外面顯出公義來，裡面卻裝滿了假善和不法的事。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "\"Woe to you, scribes and Pharisees--hypocrites!--because you are like whitewashed tombs which on the outside appear beautiful, but on the inside are full of the bones of the dead and of everything unclean!"
+  },
+  "chapter": "23",
+  "verse": "27-28"
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "你們要小心，不可將善事行在人的面前，故意叫他們看見。<br>若是這樣，就不能得你們天父的賞賜了。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "\"And take care not to practice your righteousness before people to be seen by them; {otherwise}Literally \"but if not\" you have no reward from your Father who is in heaven."
+  },
+  "chapter": "6",
+  "verse": "1"
+ },
+ {
+  "ch": {
+   "book": "傳道書",
+   "text": "因為人所作的事，連一切隱藏的事，無論是善是惡，神都必審問。"
+  },
+  "en": {
+   "book": "Ecclesiastes",
+   "text": "For God will bring every deed into judgment, including every secret thing, whether good or evil."
+  },
+  "chapter": "12",
+  "verse": "14"
+ },
+ {
+  "ch": {
+   "book": "彼得前書",
+   "text": "你們既因順從真理、潔淨了自己的心、以致愛弟兄沒有虛假、<br>就當從心裡彼此切實相愛。"
+  },
+  "en": {
+   "book": "First_Peter",
+   "text": "Having purified your souls by your obedience to the truth for sincere brotherly love, love one another fervently from the heart,Some manuscripts have \"from a pure heart\""
+  },
+  "chapter": "1",
+  "verse": "22 "
+ },
+ {
+  "ch": {
+   "book": "提摩太後書",
+   "text": "有敬虔的外貌、卻背了敬虔的實意．這等人你要躲開。"
+  },
+  "en": {
+   "book": "Second_Timothy",
+   "text": "maintaining a form of godliness, but denying its power. Avoid these <transChange type=\"added\">people</transChange>."
+  },
+  "chapter": "3",
+  "verse": "5"
+ },
+ {
+  "ch": {
+   "book": "羅馬書",
+   "text": "愛人不可虛假，惡要厭惡，善要親近。"
+  },
+  "en": {
+   "book": "Romans",
+   "text": "Love must be without hypocrisy. Abhor what <transChange type=\"added\">is</transChange> evil; be attached to what <transChange type=\"added\">is</transChange> good,"
+  },
+  "chapter": "12",
+  "verse": "9"
+ },
+ {
+  "ch": {
+   "book": "加拉太書",
+   "text": "我現在是要得人的心呢? 還是要得神的心呢? 我豈是討人的喜歡麼?<br> 若仍舊討人的喜歡，我就不是基督的僕人了。"
+  },
+  "en": {
+   "book": "Galatians",
+   "text": "For am I now making an appeal to people or <transChange type=\"added\">to</transChange> God? Or am I seeking to please people? If I were still trying to please people, I would not be a slave of Christ. "
+  },
+  "chapter": "1",
+  "verse": "10 "
+ },
+ {
+  "ch": {
+   "book": "歌羅西書",
+   "text": "無論做什麼，都要從心裡做，像是給主做的，不是給人做的，<br>因你們知道從主那裏必得充基業為賞賜；你們所事奉的乃是主基督。"
+  },
+  "en": {
+   "book": "Colossians",
+   "text": "Whatever you do, accomplish <transChange type=\"added\">it</transChange> from the soul, as to the Lord, and not to people,"
+  },
+  "chapter": "3",
+  "verse": "23-24"
+ },
+ {
+  "ch": {
+   "book": "雅各書",
+   "text": "若有人自以為虔誠、卻不勒住他的舌頭、反欺哄自己的心、這人的虔誠是虛的。"
+  },
+  "en": {
+   "book": "James",
+   "text": "If anyone thinks he is religious, <transChange type=\"added\">although he</transChange>*Here \"<transChange type=\"added\">although</transChange>\" is supplied as a component of the participle (\"bridle\") which is understood as concessive does not bridle his tongue but deceives his heart, this person's religion <transChange type=\"added\">is</transChange> worthless."
+  },
+  "chapter": "1",
+  "verse": "26"
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "你們的話：是，就說是；不是，就說不是；若再多說，就是出於那惡者。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "But let your statement be 'Yes, yes; no, no,' and anything beyond these is from the evil one.Or \"is of evil\" "
+  },
+  "chapter": "5",
+  "verse": "37 "
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "義人的心、思量如何回答．惡人的口、吐出惡言。 "
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "A heartOr \"mind\" of righteousness will ponder the answer, but a mouth of wickedness will pour out deceit."
+  },
+  "chapter": "15",
+  "verse": "28"
+ },
+ {
+  "ch": {
+   "book": "以弗所書",
+   "text": "我又告訴你們：凡人所說的閒話，當審判的日子，必要句句供出來。"
+  },
+  "en": {
+   "book": "Ephesians",
+   "text": "Therefore, putting aside the lie, speak truth each one of you with his neighbor,An allusion to Zech 8:16 because we are members of one another."
+  },
+  "chapter": "4",
+  "verse": "25"
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "所以你們要棄絕謊言、各人與鄰舍說實話．因為我們是互相為肢體。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "But I tell you that every worthless word that they speak, people will give an account for it on the day of judgment!"
+  },
+  "chapter": "12",
+  "verse": "36"
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "多言多語難免有過．禁止嘴唇是有智慧。"
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "In many words, transgression is not lacking, but he who restrains his lips is prudent."
+  },
+  "chapter": "10",
+  "verse": "19 "
+ },
+ {
+  "ch": {
+   "book": "羅馬書",
+   "text": "你這論斷人的、無論你是誰、也無可推諉、你在甚麼事上論斷人、<br>就在甚麼事上定自己的罪．因你這論斷人的、自己所行卻和別人一樣。 "
+  },
+  "en": {
+   "book": "Romans",
+   "text": "Therefore you are without excuse, O man, every one <transChange type=\"added\">of you</transChange> who passes judgment. For in that which you pass judgment on someone else, you condemn yourself, for you who are passing judgment are doing the same <transChange type=\"added\">things</transChange>."
+  },
+  "chapter": "2",
+  "verse": "1"
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "作假見證的、不免受罰．吐出謊言的、也必滅亡。"
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "A false witness will not go unpunished, and he who breathes lies will perish."
+  },
+  "chapter": "19",
+  "verse": "9 "
+ },
+ {
+  "ch": {
+   "book": "馬可福音",
+   "text": "我實在告訴你們，世人一切的罪和一切褻瀆的話都可得赦免；<br>凡褻瀆聖靈的，卻永不得赦免，乃要擔當永遠的罪。 "
+  },
+  "en": {
+   "book": "Mark",
+   "text": "\"Truly I say to you that all the sins and the blasphemies will be forgiven the sons of men, however much they blaspheme."
+  },
+  "chapter": "3",
+  "verse": "28-29"
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "因為你的財寶在那裡，你的心也在那裡。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "For where your treasure is, there your heart will be also. "
+  },
+  "chapter": "6",
+  "verse": "21"
+ },
+ {
+  "ch": {
+   "book": "希伯來書",
+   "text": "你們存心不可貪愛錢財，要以自己所有的為足；<br>因為主曾說：『我總不撇下你，也不丟棄你。』"
+  },
+  "en": {
+   "book": "Hebrews",
+   "text": "Your lifestyle <transChange type=\"added\">must be</transChange> free from the love of money, being content with what you have. For he himself has said, \"I will never desert you, and I will never abandon you.\"A quotation from Deut 31:6, 8"
+  },
+  "chapter": "13",
+  "verse": "5"
+ },
+ {
+  "ch": {
+   "book": "提摩太前書",
+   "text": "只要有衣有食、就當知足。但那些想要發財的人、就陷在迷惑、<br>落在網羅、和許多無知有害的私慾裡、叫人沉在敗壞和滅亡中。<br>貪財是萬惡之根．有人貪戀錢財、就被引誘離了真道、用許多愁苦把自己刺透了。 "
+  },
+  "en": {
+   "book": "First_Timothy",
+   "text": "For we have brought nothing into the world, so that neither can we bring anything out."
+  },
+  "chapter": "6",
+  "verse": "7-10"
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "驕傲只啟爭競．聽勸言的、卻有智慧。 "
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "Only by insolence is strife set up, and wisdom <transChange type=\"added\">is</transChange> with those who take advice."
+  },
+  "chapter": "13",
+  "verse": "10"
+ },
+ {
+  "ch": {
+   "book": "加拉太書",
+   "text": "不要貪圖虛名、彼此惹氣、互相嫉妒。"
+  },
+  "en": {
+   "book": "Galatians",
+   "text": "We must not become conceited, provoking one another, envying one another. "
+  },
+  "chapter": "5",
+  "verse": "26"
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "凡心裡驕傲的、為耶和華所憎惡．雖然連手、他必不免受罰。 "
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "An abomination of Yahweh <transChange type=\"added\">are</transChange> all who are arrogant of heart;Or \"mind\" {rest assured},Literally \"hand to hand\" he will not go unpunished."
+  },
+  "chapter": "16",
+  "verse": "5"
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "你要專心仰賴耶和華，不可倚靠自己的聰明，<br>在你一切所行的事上都要認定他，他必指引你的路。"
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "{Trust Yahweh}Literally \"trust toward Yahweh\" with all your heart; do not lean toward your own understanding."
+  },
+  "chapter": "3",
+  "verse": "5-6 "
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "驕傲來、羞恥也來．謙遜人卻有智慧。"
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "Pride comes, then disgrace comes, but wisdom <transChange type=\"added\">is</transChange> with the humble."
+  },
+  "chapter": "11",
+  "verse": "2 "
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "沒有人能以智慧、聰明、謀略、敵擋耶和華。 "
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "There is no wisdom, nor understanding, nor counsel to oppose Yahweh."
+  },
+  "chapter": "21",
+  "verse": "30"
+ },
+ {
+  "ch": {
+   "book": "歌林多後書",
+   "text": "但誇口的，當指著主誇口。因為蒙悅納的，不是自己稱許的，乃是主所稱許的。"
+  },
+  "en": {
+   "book": "Second_Corinthians",
+   "text": "But \"the one who boasts, let him boast in the Lord.\"A quotation from Jer 9:24"
+  },
+  "chapter": "10",
+  "verse": "17-18"
+ },
+ {
+  "ch": {
+   "book": "雅歌",
+   "text": "你的膏油馨香。你的名如同倒出來的香膏，所以眾童女都愛你。<br>願你吸引我，我們就快跑跟隨你。"
+  },
+  "en": {
+   "book": "Song_of_Solomon",
+   "text": "As fragrance, {your perfumes}Literally \"your oil lotions\" <transChange type=\"added\">are</transChange> {delightful};Literally \"good\" your name is poured out {perfume};Literally \"oil lotion\" therefore young women love you."
+  },
+  "chapter": "1",
+  "verse": "3-4a"
+ },
+ {
+  "ch": {
+   "book": "以賽亞書",
+   "text": "直到你們年老，我仍這樣；直到你們髮白，我仍懷搋。<br>我已造作，也必保抱；我必懷抱，也必拯救。"
+  },
+  "en": {
+   "book": "Isaiah",
+   "text": "EvenOr \"And\" to <transChange type=\"added\">your</transChange> old age I <transChange type=\"added\">am</transChange> he; evenOr \"And\" to <transChange type=\"added\">your</transChange> advanced age I myself will support <transChange type=\"added\">you</transChange>. I myself have made <transChange type=\"added\">you</transChange>, and I myself will carry <transChange type=\"added\">you</transChange>, and I myself will support <transChange type=\"added\">you</transChange>, and I will save <transChange type=\"added\">you</transChange>."
+  },
+  "chapter": "46",
+  "verse": "4"
+ },
+ {
+  "ch": {
+   "book": "以賽亞書",
+   "text": "大山可以挪開，小山可以遷移。<br>但我的慈愛必不離開你，我平安的約也不遷移。<br>這是憐恤你的耶和華說的。"
+  },
+  "en": {
+   "book": "Isaiah",
+   "text": "For the mountains may depart, and the hills may sway, butOr \"and\" my faithfulness shall not depart from you, and my covenant of peace shall not sway,\" says Yahweh, who has compassion on you,"
+  },
+  "chapter": "54",
+  "verse": "10"
+ },
+ {
+  "ch": {
+   "book": "西番雅書",
+   "text": "耶和華你的神，是施行拯救，大有能力的主，<br>他在你中間必因你歡欣喜樂，默然愛你，且因你喜樂而歡呼。"
+  },
+  "en": {
+   "book": "Zephaniah",
+   "text": "Yahweh your God <transChange type=\"added\">is</transChange> in your midst; a mighty warrior who saves. He shall rejoice over you with joy; he renewsThe translation follows the LXX text; the traditional Hebrew text reads \"he will silence you in his love\" you in his love; he will exult over you with singing."
+  },
+  "chapter": "3",
+  "verse": "17"
+ },
+ {
+  "ch": {
+   "book": "約翰福音",
+   "text": "神愛世人，甚至將他的獨生子賜給他們，叫一切信他的，不至滅亡，反得永生。"
+  },
+  "en": {
+   "book": "John",
+   "text": "For in this way God loved the world, so that he gave his one and only Son, in order that everyone who believes in him will not perish, but will have eternal life."
+  },
+  "chapter": "3",
+  "verse": "16"
+ },
+ {
+  "ch": {
+   "book": "歌林多前書",
+   "text": "愛是永不止息。先知講道之能，終必歸於無有。<br>說方言之能，終必停止，知識也終必歸於無有。"
+  },
+  "en": {
+   "book": "First_Corinthians",
+   "text": "Love never ends. But if <transChange type=\"added\">there are</transChange> prophecies, they will pass away. If <transChange type=\"added\">there are</transChange> tongues, they will cease. If <transChange type=\"added\">there is</transChange> knowledge, it will pass away."
+  },
+  "chapter": "13",
+  "verse": "8"
+ },
+ {
+  "ch": {
+   "book": "歌林多後書",
+   "text": "原來基督的愛激勵我們。因我們想一人既替眾人死，眾人就都死了。"
+  },
+  "en": {
+   "book": "Second_Corinthians",
+   "text": "For the love of Christ controls us, <transChange type=\"added\">because we</transChange>*Here \"<transChange type=\"added\">because</transChange>\" is supplied as a component of the participle (\"have concluded\") which is understood as causal have concluded this: that one died for all; as a result all died."
+  },
+  "chapter": "5",
+  "verse": "14"
+ },
+ {
+  "ch": {
+   "book": "約翰一書",
+   "text": "不是我們愛神，乃是神愛我們，差他的兒子，為我們的罪作了挽回祭，這就是愛了<br>。 "
+  },
+  "en": {
+   "book": "First_John",
+   "text": "In this is love: not that we have loved God, but that he loved us and sent his Son <transChange type=\"added\">to be the</transChange> propitiationOr \"expiation\"; or \"atoning sacrifice\" for our sins. "
+  },
+  "chapter": "4",
+  "verse": "10"
+ },
+ {
+  "ch": {
+   "book": "創世記",
+   "text": "神說，我們要照著我們的形像，按著我們的樣式造人，<br>使他們管理海裏的魚，空中的鳥，地上的牲畜，和全地，並地上所爬的一切昆蟲。"
+  },
+  "en": {
+   "book": "Genesis",
+   "text": "And God said, \"Let us make humankind inOr \"as\" our image and according toOr \"as\" our likeness, and let them rule over the fish of the sea, and over the birds of heaven,Or \"the sky\" and over the cattle, and over all the earth, and over every moving thing that moves upon the earth.\""
+  },
+  "chapter": "1",
+  "verse": "26"
+ },
+ {
+  "ch": {
+   "book": "出埃及記",
+   "text": "耶和華是我的名，直到永遠，這也是我的紀念，直到萬代。"
+  },
+  "en": {
+   "book": "Exodus",
+   "text": "And God said again to Moses, \"So you must say to the {Israelites},Literally \"sons/children of Israel\" 'Yahweh, the God of your ancestors,Or \"fathers\" the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you. This <transChange type=\"added\">is</transChange> my name forever, and this <transChange type=\"added\">is</transChange> my remembrance from generation <transChange type=\"added\">to</transChange> generation.'"
+  },
+  "chapter": "3",
+  "verse": "15"
+ },
+ {
+  "ch": {
+   "book": "撒母耳記下",
+   "text": "他教導我的手能以爭戰，甚至我的膀臂能開銅弓。<br>你把你的救恩給我作盾牌。你的溫和使我為大。"
+  },
+  "en": {
+   "book": "Second_Samuel",
+   "text": "He trains my hands for the war, so that my arms can bend a bow of bronze."
+  },
+  "chapter": "22",
+  "verse": "35-36"
+ },
+ {
+  "ch": {
+   "book": "約伯記",
+   "text": "你以皮和肉為衣給我穿上，用骨與筋把我全體聯絡。<br>你將生命和慈愛賜給我，你也眷顧保全我的心靈。"
+  },
+  "en": {
+   "book": "Job",
+   "text": "You clothed me <transChange type=\"added\">with</transChange> skin and flesh, and you knit me together with bones and sinews."
+  },
+  "chapter": "10",
+  "verse": "11-12"
+ },
+ {
+  "ch": {
+   "book": "約伯記",
+   "text": "神藉著困苦救拔困苦人，趁他們受欺壓，開通他們的耳朵。"
+  },
+  "en": {
+   "book": "Job",
+   "text": "He delivers <transChange type=\"added\">the</transChange> afflicted by his misery, and he opens their ears by the adversity."
+  },
+  "chapter": "36",
+  "verse": "15"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "他使我躺臥在青草地上，領我在可安歇的水邊。<br>他使我的靈魂甦醒，為自己的名引導我走義路。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "In grassy pastures he makes me lie down; by quiet waters he leads me."
+  },
+  "chapter": "23",
+  "verse": "2-3"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "若不是耶和華建造房屋，建造的人就枉然勞力。<br>若不是耶和華看守城池，看守的人就枉然警醒。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "Unless Yahweh builds a house, its builders labor at it in vain. Unless Yahweh guards a city, a guard watches in vain."
+  },
+  "chapter": "127",
+  "verse": "1"
+ },
+ {
+  "ch": {
+   "book": "以賽亞書",
+   "text": "因為有一嬰孩為我們而生，有一子賜給我們。政權必擔在他的肩頭上。<br>他名稱為奇妙，策士，全能的神，永在的父，和平的君。"
+  },
+  "en": {
+   "book": "Isaiah",
+   "text": "For a child has been born for us; a son has been given to us. And the dominion will be on his shoulder, and his name is called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace."
+  },
+  "chapter": "9",
+  "verse": "6"
+ },
+ {
+  "ch": {
+   "book": "以賽亞書",
+   "text": "壓傷的蘆葦，他不折斷。將殘的燈火，他不吹滅。他憑真實將公理傳開。"
+  },
+  "en": {
+   "book": "Isaiah",
+   "text": "He will not break a broken reed, and he not will extinguish a dim wick. He will bring justice forth inOr \"to\" faithfulness."
+  },
+  "chapter": "42",
+  "verse": "3"
+ },
+ {
+  "ch": {
+   "book": "以賽亞書",
+   "text": "耶和華說，我的意念，非同你們的意念，我的道路，非同你們的道路。"
+  },
+  "en": {
+   "book": "Isaiah",
+   "text": "\"For my thoughts <transChange type=\"added\">are</transChange> not your thoughts, and your ways <transChange type=\"added\">are</transChange> not my ways,\""
+  },
+  "chapter": "55",
+  "verse": "8"
+ },
+ {
+  "ch": {
+   "book": "但以理書",
+   "text": "他顯明深奧隱秘的事，知道暗中所有的，光明也與他同居。"
+  },
+  "en": {
+   "book": "Daniel",
+   "text": "He reveals the deep and the hidden things; he knows what <transChange type=\"added\">is</transChange> in the darkness, and the light dwells with him."
+  },
+  "chapter": "2",
+  "verse": "22"
+ },
+ {
+  "ch": {
+   "book": "但以理書",
+   "text": "至高者在人的國中掌權，要將國賜與誰就賜與誰，或立極卑微的人執掌國權。"
+  },
+  "en": {
+   "book": "Daniel",
+   "text": "The sentence <transChange type=\"added\">is</transChange> by <transChange type=\"added\">the</transChange> decree of <transChange type=\"added\">the</transChange> watchers, and the decision <transChange type=\"added\">by</transChange> <transChange type=\"added\">the</transChange> command of <transChange type=\"added\">the</transChange> holy <transChange type=\"added\">ones</transChange>, {in order that}Literally \"until matter that\" the living will know that the Most High <transChange type=\"added\">is</transChange> sovereign over <transChange type=\"added\">the</transChange> kingdom of humankind, and {to whomever}Literally \"to whom that\" he wills he gives it, and he <transChange type=\"added\">even</transChange> sets <transChange type=\"added\">the</transChange> humblest of men over it.\""
+  },
+  "chapter": "4",
+  "verse": "17"
+ },
+ {
+  "ch": {
+   "book": "歌林多後書",
+   "text": "神的應許，不論有多少，在基督都是是的，<br>所以藉著他也都是實在的，叫神因我們得榮耀。"
+  },
+  "en": {
+   "book": "Second_Corinthians",
+   "text": "For as many as <transChange type=\"added\">are the</transChange> promises of God, in him <transChange type=\"added\">they are</transChange> \"yes\"; therefore also through him <transChange type=\"added\">is</transChange> the \"amen\" to the glory of God through us."
+  },
+  "chapter": "1",
+  "verse": "20"
+ },
+ {
+  "ch": {
+   "book": "歌林多後書",
+   "text": "他對我說，我的恩典夠你用的。因為我的能力，是在人的軟弱上顯得完全。"
+  },
+  "en": {
+   "book": "Second_Corinthians",
+   "text": "And he said to me, \"My grace is sufficient for you, because theA majority of later manuscripts read \"my\" power is perfected in weakness.\" Therefore rather I will boast most gladly in my weaknesses, in order that the power of Christ may reside in me."
+  },
+  "chapter": "12",
+  "verse": "9"
+ },
+ {
+  "ch": {
+   "book": "以弗所書",
+   "text": "神能照著運行在我們心裏的大力，充充足足的成就一切超過我們所求所想的。"
+  },
+  "en": {
+   "book": "Ephesians",
+   "text": "Be angry and do not sin;An allusion to Ps 4:4 do not let the sun set on your anger,"
+  },
+  "chapter": "3",
+  "verse": "26"
+ },
+ {
+  "ch": {
+   "book": "腓立比書",
+   "text": "因為你們立志行事，都是神在你們心裏運行，為要成就他的美意。"
+  },
+  "en": {
+   "book": "Philippians",
+   "text": "For the one at work in you, both to will and to work for his good pleasure, is God."
+  },
+  "chapter": "2",
+  "verse": "13"
+ },
+ {
+  "ch": {
+   "book": "帖撒羅尼迦後書",
+   "text": "但主是信實的，要堅固你們，保護你們脫離那惡者。"
+  },
+  "en": {
+   "book": "Second_Thessalonians",
+   "text": "But the Lord is faithful, who will strengthen you and guard <transChange type=\"added\">you</transChange> from the evil one."
+  },
+  "chapter": "3",
+  "verse": "3"
+ },
+ {
+  "ch": {
+   "book": "約翰一書",
+   "text": "我們若在光明中行，如同神在光明中，就彼此相交，<br>他兒子耶穌的血也洗淨我們一切的罪。 "
+  },
+  "en": {
+   "book": "First_John",
+   "text": "But if we walk in the light as he is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin."
+  },
+  "chapter": "1",
+  "verse": "7"
+ },
+ {
+  "ch": {
+   "book": "申命記",
+   "text": "他苦煉你，任你饑餓，將你和你列祖所不認識的嗎哪賜給你吃，<br>使你知道，人活著不是單靠食物，乃是靠耶和華口里所出的一切話。"
+  },
+  "en": {
+   "book": "Deuteronomy",
+   "text": "And he humbled you and let you go hungry, and <transChange type=\"added\">then</transChange> he fed you with that which you did not know nor did your ancestorsOr \"fathers\" know, in order to make you know that not by bread alone but by all <transChange type=\"added\">that</transChange> goes outOr \"by all <transChange type=\"added\">of</transChange> the going out of\" of the mouth of Yahweh humankind shall live."
+  },
+  "chapter": "8",
+  "verse": "3"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "神是我們的避難所，是我們的力量，是我們在患難中隨時的幫助。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "God <transChange type=\"added\">is</transChange> our refuge and strength, a very sufficient help in troubles."
+  },
+  "chapter": "46",
+  "verse": "1"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "你使我們進入網羅，把重擔放在我們的身上。<br>你使人坐車軋我們的頭。我們經過水火。你卻使我們到豐富之地。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "You brought us into the net; you placed a {heavy burden}Literally \"oppression\" on our backs."
+  },
+  "chapter": "66",
+  "verse": "11-12"
+ },
+ {
+  "ch": {
+   "book": "那鴻書",
+   "text": "耶和華本為善，在患難的日子為人的保障。並且認得那些投靠他的人。"
+  },
+  "en": {
+   "book": "Nahum",
+   "text": "Yahweh is good--a refuge in <transChange type=\"added\">the</transChange> day of distress; <transChange type=\"added\">he knows</transChange> those who take refuge in him."
+  },
+  "chapter": "1",
+  "verse": "7"
+ },
+ {
+  "ch": {
+   "book": "哈巴谷書",
+   "text": "然而我要因耶和華歡欣，因救我的神喜樂。<br>主耶和華是我的力量。他使我的腳快如母鹿的蹄。又使我穩行在高處。"
+  },
+  "en": {
+   "book": "Habakkuk",
+   "text": "Yet I will rejoice in Yahweh; I will exult in the God of my salvation."
+  },
+  "chapter": "3",
+  "verse": "18-19a"
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "為義受逼迫的人有福了，因為天國是他們的。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "Blessed <transChange type=\"added\">are</transChange> those who are persecuted because of righteousness, because theirs is the kingdom of heaven."
+  },
+  "chapter": "5",
+  "verse": "10"
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "凡勞苦擔重擔的人，可以到我這裏來，我就使你們得安息。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "Come to me, all <transChange type=\"added\">of you</transChange> who labor and are burdened, and I will give you rest."
+  },
+  "chapter": "11",
+  "verse": "28"
+ },
+ {
+  "ch": {
+   "book": "馬可福音",
+   "text": "並且你們要為我的名，被眾人恨惡，惟有忍耐到底的，必然得救。"
+  },
+  "en": {
+   "book": "Mark",
+   "text": "And you will be hated by all because of my name. But the one who endures to the end--this one will be saved. "
+  },
+  "chapter": "13",
+  "verse": "13"
+ },
+ {
+  "ch": {
+   "book": "羅馬書",
+   "text": "不但如此，就是在患難中，也是歡歡喜喜的。<br>因為知道患難生忍耐。忍耐生老練。老練生盼望。"
+  },
+  "en": {
+   "book": "Romans",
+   "text": "And not only <transChange type=\"added\">this</transChange>, but we also boast in our afflictions, <transChange type=\"added\">because we</transChange>*Here \"<transChange type=\"added\">because</transChange>\" is supplied as a component of the participle (\"know\") which is understood as causal know that affliction produces patient endurance,"
+  },
+  "chapter": "5",
+  "verse": "3-4"
+ },
+ {
+  "ch": {
+   "book": "羅馬書",
+   "text": "我想現在的苦楚，若比將來要顯於我們的榮耀，就不足介意了。"
+  },
+  "en": {
+   "book": "Romans",
+   "text": "For I consider that the sufferings of the present time are not worthy <transChange type=\"added\">to be compared</transChange> with the glory that is about to be revealed to us."
+  },
+  "chapter": "8",
+  "verse": "18"
+ },
+ {
+  "ch": {
+   "book": "腓立比書",
+   "text": "因為你們蒙恩，不但得以信服基督，並要為他受苦。"
+  },
+  "en": {
+   "book": "Philippians",
+   "text": "because to you has been graciously granted on behalf of Christ not only to believe in him, but also to suffer on behalf of him,"
+  },
+  "chapter": "1",
+  "verse": "29"
+ },
+ {
+  "ch": {
+   "book": "希伯來書",
+   "text": "他自己既然被試探而受苦，就能搭救被試探的人。"
+  },
+  "en": {
+   "book": "Hebrews",
+   "text": "For in that which he himself suffered <transChange type=\"added\">when he</transChange>*Here \"<transChange type=\"added\">when</transChange>\" is supplied as a component of the participle (\"was tempted\") which is understood as temporal was tempted, he is able to help those who are tempted. "
+  },
+  "chapter": "2",
+  "verse": "18"
+ },
+ {
+  "ch": {
+   "book": "彼得前書",
+   "text": "你們若為基督的名受辱罵，便是有福的。<br>因為神榮耀的靈，常住在你們身上。 "
+  },
+  "en": {
+   "book": "First_Peter",
+   "text": "If you are reviled on account of the name of Christ, <transChange type=\"added\">you are</transChange> blessed, because the Spirit of glory and of God rests on you."
+  },
+  "chapter": "4",
+  "verse": "14"
+ },
+ {
+  "ch": {
+   "book": "創世記",
+   "text": "亞伯拉罕給那地方起名叫耶和華以勒（就是耶和華必預備），<br>直到今日人還說，在耶和華的山上必有預備。"
+  },
+  "en": {
+   "book": "Genesis",
+   "text": "And Abraham called the name of that place \"Yahweh {will provide},\"Literally \"will see\" {for which reason}Literally \"which\" it is said today, \"on the mountain of Yahweh {it shall be provided}.\"Literally \"it/he shall be seen\""
+  },
+  "chapter": "22",
+  "verse": "14"
+ },
+ {
+  "ch": {
+   "book": "申命記",
+   "text": "永生的神是你的居所。他永久的膀臂在你以下。他在你前面攆出仇敵。"
+  },
+  "en": {
+   "book": "Deuteronomy",
+   "text": "The God of {ancient time}Literally \"before/earlier time<transChange type=\"added\">s</transChange>\" <transChange type=\"added\">is</transChange> a hiding place, and underneath <transChange type=\"added\">are</transChange> <transChange type=\"added\">the</transChange> arms of eternity,Or \"everlasting ages\" or \"everlasting arms\" and he drove out {from before}Literally \"from your face\" you your enemy, and he said, 'Destroy <transChange type=\"added\">them</transChange>!'"
+  },
+  "chapter": "33",
+  "verse": "27"
+ },
+ {
+  "ch": {
+   "book": "約書亞記",
+   "text": "至於我和我家，我們必定事奉耶和華。"
+  },
+  "en": {
+   "book": "Joshua",
+   "text": "But if it is bad in your eyes to serve Yahweh, choose for yourselves today whom you want to serve, whether it is the gods that your ancestorsOr \"fathers\" served beyond the river,That is, the Euphrates or the gods of the AmoritesHebrew \"Amorite\" in whose land you <transChange type=\"added\">are</transChange> living; but as for me and my household, we will serve Yahweh.\""
+  },
+  "chapter": "24",
+  "verse": "15"
+ },
+ {
+  "ch": {
+   "book": "撒母耳記上",
+   "text": "給石頭起名叫以便以謝，說，到如今耶和華都幫助我們。"
+  },
+  "en": {
+   "book": "First_Samuel",
+   "text": "So Samuel took a single stone and put <transChange type=\"added\">it</transChange> between Mizpah and Shen, and he named it Ebenezer and said, \"Up to here Yahweh has helped us.\""
+  },
+  "chapter": "7",
+  "verse": "12"
+ },
+ {
+  "ch": {
+   "book": "撒母耳記上",
+   "text": "耶和華喜悅燔祭和平安祭，豈如喜悅人聽從他的話呢。<br>聽命勝於獻祭。順從勝於公羊的脂油。"
+  },
+  "en": {
+   "book": "First_Samuel",
+   "text": "Then Samuel said, "
+  },
+  "chapter": "15",
+  "verse": "22"
+ },
+ {
+  "ch": {
+   "book": "歷代志下",
+   "text": "這稱為我名下的子民，若是自卑，禱告，尋求我的面，<br>轉離他們的惡行，我必從天上垂聽，赦免他們的罪，醫治他們的地。"
+  },
+  "en": {
+   "book": "Second_Chronicles",
+   "text": "<transChange type=\"added\">then if</transChange> my people who are called by my name will humble themselves and will pray and will seek my face and will turn from their evil ways, then I myself shall hear from the heavens and will forgive their sins and heal their land."
+  },
+  "chapter": "7",
+  "verse": "14"
+ },
+ {
+  "ch": {
+   "book": "以斯拉記",
+   "text": "我們神施恩的手必幫助一切尋求他的。<br>但他的能力和忿怒，必攻擊一切離棄他的。"
+  },
+  "en": {
+   "book": "Ezra",
+   "text": "For I was ashamed to ask the king for troops and horses to protect us from enemies on the way because we said to the king, \"the hand of our God is favorable to all who seek him, but his strength and anger are against all who forsake them.\""
+  },
+  "chapter": "8",
+  "verse": "22b"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "惟耶和華坐著為王，直到永遠。他已經為審判設擺他的寶座。<br>他要按公義審判世界，按正直判斷萬民。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "But Yahweh sits <transChange type=\"added\">enthroned</transChange> forever. He has established his throne for judgment."
+  },
+  "chapter": "9",
+  "verse": "7-8"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "誰能登耶和華的山。誰能站在他的聖所。<br>就是手潔心清，不向虛妄，起誓不懷詭詐的人。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "Who may ascend <transChange type=\"added\">the</transChange> mountain of Yahweh? And who may stand in his holy place?"
+  },
+  "chapter": "24",
+  "verse": "3-4"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "我是耶和華你的神，曾把你從埃及地領上來。<br>你要大大張口，我就給你充滿。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "I <transChange type=\"added\">am</transChange> Yahweh your God, who brought you up from the land of Egypt. Open wide your mouth and I will fill it."
+  },
+  "chapter": "81",
+  "verse": "10"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "因為耶和華神是日頭，是盾牌，要賜下恩惠和榮耀。<br>他未嘗留下一樣好處，不給那些行動正直的人。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "Because Yahweh God <transChange type=\"added\">is</transChange> a sun and a shield; Yahweh gives grace and honor. He does not withhold good from those who walk blamelessly."
+  },
+  "chapter": "84",
+  "verse": "11"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "敬畏耶和華是智慧得開端。凡遵行。他命令的，便是聰明人。<br>耶和華是永遠當贊美的。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "The fear of Yahweh <transChange type=\"added\">is the</transChange> beginning of wisdom; all who do themThat is, his precepts (v. 7), or the stipulations of his covenant (v. 9) have a good understanding. His praise endures forever."
+  },
+  "chapter": "111",
+  "verse": "10"
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "但義人的路，好像黎明的光，越照越明，直到日午。"
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "But the path of the righteous ones <transChange type=\"added\">is</transChange> like the light of dawn, leading and shining until the day {is full}.Literally \"<transChange type=\"added\">is</transChange> correct\""
+  },
+  "chapter": "4",
+  "verse": "18"
+ },
+ {
+  "ch": {
+   "book": "耶利米書",
+   "text": "我是耶和華，是凡有血氣者的神，豈有我難成的事麼。"
+  },
+  "en": {
+   "book": "Jeremiah",
+   "text": "\"Look, I <transChange type=\"added\">am</transChange> Yahweh, <transChange type=\"added\">the</transChange> God of all flesh; is {anything}Literally \"all thing\" too difficult for me?\""
+  },
+  "chapter": "32",
+  "verse": "27"
+ },
+ {
+  "ch": {
+   "book": "阿摩司書",
+   "text": "那創山，造風，將心意指示人，使晨光變為幽暗，腳踏在地之高處的。<br>他的名是耶和華萬軍之神。"
+  },
+  "en": {
+   "book": "Amos",
+   "text": "Yes, here is the one who forms <transChange type=\"added\">the</transChange> mountains, and the one who creates the wind, and the one who reveals to humans what his thoughts <transChange type=\"added\">are</transChange>, and the one who treads on the heights of the earth; Yahweh, the God of hosts, <transChange type=\"added\">is</transChange> his name!\" "
+  },
+  "chapter": "4",
+  "verse": "13"
+ },
+ {
+  "ch": {
+   "book": "馬可福音",
+   "text": "凡遵行神旨意的人，就是我的弟兄姐妹和母親了。"
+  },
+  "en": {
+   "book": "Mark",
+   "text": "For whoever does the will of God, this person is my brother and sister and mother.\" "
+  },
+  "chapter": "3",
+  "verse": "35"
+ },
+ {
+  "ch": {
+   "book": "馬可福音",
+   "text": "因為人子來，並不是要受人的服事，乃是要服事人，並且要舍命，作多人的贖價。"
+  },
+  "en": {
+   "book": "Mark",
+   "text": "For even the Son of Man did not come to be served, but to serve, and to give his life <transChange type=\"added\">as</transChange> a ransom for many.\" "
+  },
+  "chapter": "10",
+  "verse": "45"
+ },
+ {
+  "ch": {
+   "book": "路加福音",
+   "text": "我告訴你們，一個罪人悔改，在神的使者面前，也是這樣為他歡喜。"
+  },
+  "en": {
+   "book": "Luke",
+   "text": "In the <transChange type=\"added\">same</transChange> way, I tell you, there is joy in the presence of the angels of God over one sinner who repents.\" "
+  },
+  "chapter": "15",
+  "verse": "10"
+ },
+ {
+  "ch": {
+   "book": "約翰福音",
+   "text": "耶穌說，我就是生命的糧。到我這裏來的，必定不餓。信我的，永遠不渴。"
+  },
+  "en": {
+   "book": "John",
+   "text": "Jesus said to them, \"I am the bread of life. The one who comes to me will never be hungry, and the one who believes in me will never be thirsty again."
+  },
+  "chapter": "6",
+  "verse": "35"
+ },
+ {
+  "ch": {
+   "book": "約翰福音",
+   "text": "凡父所賜給我的人，必到我這裏來。到我這裏來的，我總不丟棄他。"
+  },
+  "en": {
+   "book": "John",
+   "text": "Everyone whom the Father gives to me will come to me, and the one who comes to me I will never throw out,"
+  },
+  "chapter": "6",
+  "verse": "37"
+ },
+ {
+  "ch": {
+   "book": "約翰福音",
+   "text": "耶穌又對眾人說，我是世上的光。跟從我的，就不在黑暗里走，必要得著生命的光。"
+  },
+  "en": {
+   "book": "John",
+   "text": "Then Jesus spoke to them again, saying, \"I am the light of the world! The one who follows me will never walk in darkness, but will have the light of life.\""
+  },
+  "chapter": "8",
+  "verse": "12"
+ },
+ {
+  "ch": {
+   "book": "約翰福音",
+   "text": "耶穌對他說，復活在我，生命也在我。信我的人，雖然死了，也必復活。"
+  },
+  "en": {
+   "book": "John",
+   "text": "Jesus said to her, \"I am the resurrection and the life. The one who believes in me, even if he dies, will live,"
+  },
+  "chapter": "11",
+  "verse": "25"
+ },
+ {
+  "ch": {
+   "book": "約翰福音",
+   "text": "耶穌說，我就是道路，真理，生命。若不藉著我。沒有人能到父那裏去。"
+  },
+  "en": {
+   "book": "John",
+   "text": "Jesus said to him, \"I am the way, and the truth, and the life. No one comes to the Father except through me."
+  },
+  "chapter": "14",
+  "verse": "6"
+ },
+ {
+  "ch": {
+   "book": "約翰福音",
+   "text": "我是葡萄樹，你們是枝子。常在我裏面的，我也常在他裏面，這人就多結果子。<br>因為離了我，你們就不能作什麼。"
+  },
+  "en": {
+   "book": "John",
+   "text": "\"I am the vine; you <transChange type=\"added\">are</transChange> the branches. The one who remains in me and I in him--this one bears much fruit, for apart from me you are not able to do anything."
+  },
+  "chapter": "15",
+  "verse": "5"
+ },
+ {
+  "ch": {
+   "book": "歌林多後書",
+   "text": "我們有這寶貝放在瓦器裏，要顯明這莫大的力，是出於神，不是出於我們。"
+  },
+  "en": {
+   "book": "Second_Corinthians",
+   "text": "But we have this treasure in earthenware jars, in order that the extraordinary degree of the power may be from God and not from us."
+  },
+  "chapter": "4",
+  "verse": "7"
+ },
+ {
+  "ch": {
+   "book": "加拉太書",
+   "text": "我已經與基督同釘十字架。現在活著的，不再是我，乃是基督在我裏面活著。"
+  },
+  "en": {
+   "book": "Galatians",
+   "text": "and I no longer live, but Christ lives in me, and that <transChange type=\"added\">life</transChange> I now live in the flesh, I live by faith in the Son of God, who loved me and gave himself for me."
+  },
+  "chapter": "2",
+  "verse": "20a"
+ },
+ {
+  "ch": {
+   "book": "提摩太前書",
+   "text": "因為只有一位神，在神和人中間，只有一位中保，乃是降世為人的基督耶穌。<br>他舍自己作萬人的贖價。到了時候，這事必證明出來。"
+  },
+  "en": {
+   "book": "First_Timothy",
+   "text": "For <transChange type=\"added\">there is</transChange> one God and one mediator between God and human beings, the man Christ Jesus,"
+  },
+  "chapter": "2",
+  "verse": "5-6"
+ },
+ {
+  "ch": {
+   "book": "希伯來書",
+   "text": "因為神並非不公義，竟忘記你們所作的工，<br>和你們為他名所顯的愛心，就是先前伺候聖徒，如今還是伺候。"
+  },
+  "en": {
+   "book": "Hebrews",
+   "text": "For God <transChange type=\"added\">is</transChange> not unjust, <transChange type=\"added\">so as</transChange> to forget your work and the love which you demonstrated for his name <transChange type=\"added\">by</transChange>*Here \"<transChange type=\"added\">by</transChange>\" is supplied as a component of the participle (\"having served\") which is understood as means having served the saints, and continuing to serve <transChange type=\"added\">them</transChange>."
+  },
+  "chapter": "6",
+  "verse": "10"
+ },
+ {
+  "ch": {
+   "book": "希伯來書",
+   "text": "耶穌基督，昨日今日一直到永遠是一樣的。 "
+  },
+  "en": {
+   "book": "Hebrews",
+   "text": "Jesus Christ <transChange type=\"added\">is</transChange> the same yesterday and today and {forever}Literally \"to the ages\"."
+  },
+  "chapter": "13",
+  "verse": "8"
+ },
+ {
+  "ch": {
+   "book": "雅各書",
+   "text": "你們想經上所說是徒然的麼? 神所賜住在我們.裡面的靈，<br>是戀愛至於嫉妒麼?但他賜更多的恩典，<br>所以經上說：『神阻擋驕傲的人，賜恩給謙卑的人。』<br>故此你們要順服神，務要抵擋魔鬼，魔鬼就必離開你們逃跑了。"
+  },
+  "en": {
+   "book": "James",
+   "text": "Or do you think that in vain the scripture says, \"The spirit which he caused to dwell in us desires jealously\"?This translation takes \"spirit\" to be the capacity within people that produces a divided mind and conflicts regarding God; other translations take this to refer to the Holy Spirit: \"He (God) jealously desires the Spirit which he caused to dwell in us\""
+  },
+  "chapter": "4",
+  "verse": "5-7 "
+ },
+ {
+  "ch": {
+   "book": "雅各書",
+   "text": "在何處有嫉妒分爭、就在何處有擾亂、和各樣的壞事。"
+  },
+  "en": {
+   "book": "James",
+   "text": "For where <transChange type=\"added\">there is</transChange> jealousy and selfish ambition, there <transChange type=\"added\">is</transChange> disorder and every evil practice."
+  },
+  "chapter": "3",
+  "verse": "16"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "不要為作惡的心懷不平，也不要向那行不義的，生出嫉妒。<br>因為他們如草快被割下，又如青菜快要枯乾。<br>你當倚靠耶和華而行善，住在地上；以祂的信實為糧。<br>又要以耶和華為樂，祂就將你心裡所求的賜給你。<br>當將你的事交託耶和華，並倚靠祂；它就必成全。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "Do not fret because of evildoers; do not be envious of doers of wickedness."
+  },
+  "chapter": "37",
+  "verse": "1-5 "
+ },
+ {
+  "ch": {
+   "book": "希伯來書",
+   "text": "又要彼此相顧，激發愛心，勉勵行善。你們不可停止聚會，<br>好像那些停止慣了的人，倒要彼此勸勉，既看見那日子臨近，就更當如此。"
+  },
+  "en": {
+   "book": "Hebrews",
+   "text": "And let us think about {how to stir one another up to love}Literally \"one another for the stirring up of love\" and good works,"
+  },
+  "chapter": "10",
+  "verse": "24-25"
+ },
+ {
+  "ch": {
+   "book": "以弗所書",
+   "text": "你們要謹慎行事、不要像愚昧人、當像智慧人．要愛惜光陰、<br>因為現今的世代邪惡。不要作糊塗人、要明白主的旨意如何。<br>不要醉酒、酒能使人放蕩、乃要被聖靈充滿。 "
+  },
+  "en": {
+   "book": "Ephesians",
+   "text": "Therefore, consider carefully how you live, not as unwise but as wise,"
+  },
+  "chapter": "5",
+  "verse": "15-18"
+ },
+ {
+  "ch": {
+   "book": "歌林多前書",
+   "text": "所以，我親愛的弟兄們，你們務要堅固，不可搖動，常常竭力多做主工；<br>因為知道，你們的勞苦在主裡面不是徒然的。 "
+  },
+  "en": {
+   "book": "First_Corinthians",
+   "text": "So then, my dear brothers, be steadfast, immovable, always abounding in the work of the Lord, <transChange type=\"added\">because you</transChange>*Here \"<transChange type=\"added\">because</transChange>\" is supplied as a component of the participle (\"know\") which is understood as causal know that your labor is not <transChange type=\"added\">in</transChange> vain in the Lord. "
+  },
+  "chapter": "15",
+  "verse": "58"
+ },
+ {
+  "ch": {
+   "book": "以弗所書",
+   "text": "生氣卻不要犯罪；不可含怒到日落，也不可給魔鬼留地步。"
+  },
+  "en": {
+   "book": "Ephesians",
+   "text": "Be angry and do not sin;An allusion to Ps 4:4 do not let the sun set on your anger,"
+  },
+  "chapter": "4",
+  "verse": "26-27"
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "只因不法的事增多，許多人的愛心，纔漸漸冷淡了。惟有忍耐到底的，必然得救。 "
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "and because lawlessness will increase, the love of many will grow cold."
+  },
+  "chapter": "24",
+  "verse": "12-13 "
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "愚妄人怒氣全發．智慧人忍氣含怒。"
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "A fool gives all his breath,Or \"spirit\" but <transChange type=\"added\">the</transChange> wise holds back in quiet."
+  },
+  "chapter": "29",
+  "verse": "11"
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "人有見識，就不輕易發怒；寬恕人的過失，便是自己的榮耀。"
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "The understanding of a person makes him slow to his {anger},Literally \"nostril\" and his glory overlooks offense."
+  },
+  "chapter": "19",
+  "verse": "11"
+ },
+ {
+  "ch": {
+   "book": "歌林多前書",
+   "text": "所以無論何人，不按理喫主的餅、喝主的杯，就是干犯主的身主的血了。<br>人應當自己省察，然後喫這餅、喝這杯。<br>因為人喫喝，若不分辨是主的身體，就是喫喝自己的罪了。 "
+  },
+  "en": {
+   "book": "First_Corinthians",
+   "text": "So then, whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of the body and the blood of the Lord."
+  },
+  "chapter": "11",
+  "verse": "27-29 "
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "人未曾加害與你、不可無故與他相爭。"
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "Do not quarrel with anyone without cause, when he did not do you harm."
+  },
+  "chapter": "3",
+  "verse": "30 "
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "你仇敵跌倒、你不要歡喜。他傾倒、你心不要快樂。<br>恐怕耶和華看見就不喜悅、將怒氣從仇敵身上轉過來。"
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "While your enemies are falling, do not rejoice; when he trips himself, may your heartOr \"mind\" not be glad"
+  },
+  "chapter": "24",
+  "verse": "17-18 "
+ },
+ {
+  "ch": {
+   "book": "希伯來書",
+   "text": "你們要追求與眾人和睦、並要追求聖潔。非聖潔沒有人能見主。<br>又要謹慎、恐怕有人失了神的恩。<br>恐怕有毒根生出來擾亂你們、因此叫眾人沾染污穢。"
+  },
+  "en": {
+   "book": "Hebrews",
+   "text": "For here we do not have a permanent city, but we seek the <transChange type=\"added\">city</transChange> that is to come."
+  },
+  "chapter": "13",
+  "verse": "14-15 "
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "你要保守你心，勝過保守一切；因為一生的果效，是由心發出。"
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "He shall die {for lack of}Literally \"with there is no\" discipline, and in the greatness of his folly he shall be lost."
+  },
+  "chapter": "5",
+  "verse": "23"
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "因為誡命是燈，法則是光，訓誨的責備是生命的道。<br>能保你遠離惡婦，遠離外女諂媚的舌頭。<br>你心中不要戀慕他的美色，也不要被他眼皮勾引。<br>因為妓女能使人只剩一塊餅，淫婦獵取人寶貴的生命。"
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "For <transChange type=\"added\">like</transChange> a lamp <transChange type=\"added\">is</transChange> a commandment, and instruction <transChange type=\"added\">is</transChange> light, and the way of lifeHebrew \"lives\" <transChange type=\"added\">is the</transChange> reproof of discipline,"
+  },
+  "chapter": "6",
+  "verse": "23-26 "
+ },
+ {
+  "ch": {
+   "book": "加拉太書",
+   "text": "情慾的事、都是顯而易見的．就如姦淫、污穢、邪蕩、拜偶像、邪術、<br>仇恨、爭競、忌恨、惱怒、結黨、紛爭、異端、嫉妒、〔有古卷在此有兇殺二字〕<br>醉酒、荒宴等類、我從前告訴你們、現在又告訴你們、<br>行這樣事的人、必不能承受神的國。"
+  },
+  "en": {
+   "book": "Galatians",
+   "text": "Now the deeds of the flesh are evident, which are sexual immorality, impurity, licentiousness,"
+  },
+  "chapter": "5",
+  "verse": "19-21 "
+ },
+ {
+  "ch": {
+   "book": "希伯來書",
+   "text": "你們總要謹慎、不可棄絕那向你們說話的。<br>因為那些棄絕在地上警戒他們的、尚且不能逃罪、<br>何況我們違背那從天上警戒我們的呢。"
+  },
+  "en": {
+   "book": "Hebrews",
+   "text": "Grace <transChange type=\"added\">be</transChange> with all of you. "
+  },
+  "chapter": "13",
+  "verse": "25 "
+ },
+ {
+  "ch": {
+   "book": "提摩太後書",
+   "text": "人若自潔，脫離卑賤的事，就必作貴重的器皿，成為聖潔，<br>合乎主用，預備行各樣的善事。"
+  },
+  "en": {
+   "book": "Second_Timothy",
+   "text": "Therefore, if someone cleanses himself from these <transChange type=\"added\">things</transChange>, he will be a vessel for honorable use, set apart, useful to the Master, prepared for every good work. "
+  },
+  "chapter": "2",
+  "verse": "21 "
+ },
+ {
+  "ch": {
+   "book": "約翰福音",
+   "text": "不是你們揀選了我，是我揀選了你們，並且分派你們去結果子，<br>叫你們的果子常存，使你們奉我的名，無論向父求什麼，他就賜給你們。 "
+  },
+  "en": {
+   "book": "John",
+   "text": "You did not choose me, but I chose you and appointed you that you should go and bear fruit, and your fruit should remain, in order that whatever you ask the Father in my name he will give you."
+  },
+  "chapter": "15",
+  "verse": "16"
+ },
+ {
+  "ch": {
+   "book": "歌林多前書",
+   "text": "神卻揀選了世上愚拙的，叫有智慧的羞愧。<br>又揀選了世上軟弱的，叫那強壯的羞愧。<br>神也揀選了世上卑賤的、被人厭惡的、以及那無有的，為要廢掉那有的。<br>使一切有血氣的，在神面前一個也不能自誇。"
+  },
+  "en": {
+   "book": "First_Corinthians",
+   "text": "But the foolish <transChange type=\"added\">things</transChange> of the world God chose in order that he might put to shame the wise, and the weak <transChange type=\"added\">things</transChange> of the world God chose in order that he might put to shame the strong,"
+  },
+  "chapter": "1",
+  "verse": "27-29"
+ },
+ {
+  "ch": {
+   "book": "提摩太後書",
+   "text": "因為神賜給我們，不是膽怯的心，乃是剛強、仁愛、謹守的心。 "
+  },
+  "en": {
+   "book": "Second_Timothy",
+   "text": "For God has not given us a spirit of cowardice, but of power and love and self-discipline. "
+  },
+  "chapter": "1",
+  "verse": "7"
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "他給正直人存留真智慧、給行為純正的人作盾牌． "
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "For the upright, he storesOr \"hides, keeps\" sound judgment, a shield for those who walk uprightly,"
+  },
+  "chapter": "2",
+  "verse": "7"
+ },
+ {
+  "ch": {
+   "book": "以賽亞書",
+   "text": "你不要害怕，因為我與你同在。不要驚惶，因為我是你的神。<br>我必堅固你，我必幫助你，我必用我公義的右手扶持你。 "
+  },
+  "en": {
+   "book": "Isaiah",
+   "text": "You must not fear, for I <transChange type=\"added\">am</transChange> with you; you must not be afraid, for I <transChange type=\"added\">am</transChange> your God. I will strengthen you, indeed I will help you, indeed I will take hold of you with the right hand of my salvation."
+  },
+  "chapter": "41",
+  "verse": "10"
+ },
+ {
+  "ch": {
+   "book": "以弗所書",
+   "text": "惟用愛心說誠實話，凡事長進，連於元首基督，全身都靠他聯絡得合式，<br>百節各按各職，照著各體的功用彼此相助，<br>便叫身體漸漸增長，在愛中建立自己。 "
+  },
+  "en": {
+   "book": "Ephesians",
+   "text": "But speaking the truth in love, we are to grow into him <transChange type=\"added\">with reference to</transChange> all <transChange type=\"added\">things</transChange>, who is the head, Christ,"
+  },
+  "chapter": "4",
+  "verse": "15-16"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "... ... 我還怕誰呢？... ... 耶和華啊，我用聲音呼籲的時候，求你垂聽。 "
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "Yahweh <transChange type=\"added\">is</transChange> my light and my salvation; whom shall I fear? Yahweh <transChange type=\"added\">is</transChange> the refuge of my life; of whom shall I be afraid?"
+  },
+  "chapter": "27",
+  "verse": "1,7"
+ },
+ {
+  "ch": {
+   "book": "馬可福音",
+   "text": "不要怕，只要信！"
+  },
+  "en": {
+   "book": "Mark",
+   "text": "But Jesus, ignoringOr \"overhearing\" {what was said},Literally \"the report that was spoken\" told the ruler of the synagogue, \"Do not be afraid--only believe!\""
+  },
+  "chapter": "5",
+  "verse": "36"
+ },
+ {
+  "ch": {
+   "book": "以賽亞書",
+   "text": "看哪，神是我們的拯救，我要倚靠他，並不懼怕。"
+  },
+  "en": {
+   "book": "Isaiah",
+   "text": "Look! God <transChange type=\"added\">is</transChange> my salvation; I will trust, and I will not be afraid, for my strength and might <transChange type=\"added\">is</transChange> Yah, Yahweh; and he has become salvation for me.\""
+  },
+  "chapter": "12",
+  "verse": "2 "
+ },
+ {
+  "ch": {
+   "book": "約書亞記",
+   "text": "我豈沒有吩咐你嗎？你當剛強壯膽！不要懼怕，也不要驚徨，<br>因為你無論往哪裡去，耶和華你的神必與你同在。"
+  },
+  "en": {
+   "book": "Joshua",
+   "text": "Did I not command you? Be strong and courageous! Do not fear or be dismayed, for Yahweh your God is with you {wherever you go}.\"Literally \"in all that you go\""
+  },
+  "chapter": "1",
+  "verse": "9"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "我懼怕的時候要倚靠你。我倚靠神，我要讚美他的話；<br>我倚靠神，必不懼怕。血氣之輩能把我怎麼樣呢？"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "{When}Literally \"<transChange type=\"added\">The</transChange> day\" I fear, I trust you."
+  },
+  "chapter": "56",
+  "verse": "3-4 "
+ },
+ {
+  "ch": {
+   "book": "希伯來書",
+   "text": "所以我們可以放膽說， \"主是幫助我的，我必不懼怕，人能把我怎麼樣呢？\""
+  },
+  "en": {
+   "book": "Hebrews",
+   "text": "So then, we can say with confidence, "
+  },
+  "chapter": "13",
+  "verse": "6"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "耶和華是我的亮光，是我的拯救，我還怕誰呢？<br>耶和華是我性命的保障，我還懼怕誰呢?"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "Yahweh <transChange type=\"added\">is</transChange> my light and my salvation; whom shall I fear? Yahweh <transChange type=\"added\">is</transChange> the refuge of my life; of whom shall I be afraid?"
+  },
+  "chapter": "27",
+  "verse": "1"
+ },
+ {
+  "ch": {
+   "book": "箴言",
+   "text": "你躺下，必不懼怕；你躺臥，睡得香甜。<br>忽然來的驚恐，不要害怕，惡人遭毀滅，也不要恐懼，<br>因為耶和華是你所倚靠的，他必保守你的腳不陷入網羅。"
+  },
+  "en": {
+   "book": "Proverbs",
+   "text": "If you sit down, you will not panic,Or \"fear, dread\" and <transChange type=\"added\">if</transChange> you lie down, then your sleep shall be sweet."
+  },
+  "chapter": "3",
+  "verse": "24-26 "
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "我又告訴你們：若是你們中間有兩個人在地上，<br>同心合意的求甚麼事，我在上的父，必為他們成全。 "
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "Again, truly I say to you that if two of you agree on earth about any matter that they ask, it will be done for them from my Father <transChange type=\"added\">who is</transChange> in heaven."
+  },
+  "chapter": "18",
+  "verse": "19"
+ },
+ {
+  "ch": {
+   "book": "創世記",
+   "text": "我也與你同在、你無論往那裡去、我必保佑你、領你歸回這地、<br>總不離棄你、直到我成全了向你所應許的。"
+  },
+  "en": {
+   "book": "Genesis",
+   "text": "Now behold, I <transChange type=\"added\">am</transChange> with you, and I will keep you wherever you go. And I will bring you to this land, for I will not leave you until I have done what I have promised to you.\""
+  },
+  "chapter": "28",
+  "verse": "15"
+ },
+ {
+  "ch": {
+   "book": "彼得後書",
+   "text": "主所應許的尚未成就，有人以為他是耽延，其實不是耽延，<br>乃是寬容你們，不願有一人沉淪，乃願人人都悔改。 "
+  },
+  "en": {
+   "book": "Second_Peter",
+   "text": "The Lord is not delaying the promise, as some consider slowness, but is being patient toward you, <transChange type=\"added\">because he</transChange>*Here \"<transChange type=\"added\">because</transChange>\" is supplied as a component of the participle (\"want\") which is understood as causal does not want any to perish, but all to come to repentance."
+  },
+  "chapter": "3",
+  "verse": "9"
+ },
+ {
+  "ch": {
+   "book": "歌林多前書",
+   "text": "你們所遇見的試探，無非是人所能受的。<br>神是信實的，必不叫你們受試探過於所能受的。<br>在受試探的時候，總要給你們開一條出路，叫你們能忍受得住。"
+  },
+  "en": {
+   "book": "First_Corinthians",
+   "text": "Temptation has not come upon you except <transChange type=\"added\">what is</transChange> common to humanity. But God <transChange type=\"added\">is</transChange> faithful, who will not permit you to be tempted beyond what you are able, but will also make a way out together with the temptation, <transChange type=\"added\">so that you</transChange> may be able to endure <transChange type=\"added\">it</transChange>. "
+  },
+  "chapter": "10",
+  "verse": "13 "
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "凡勞苦擔重擔的人、可以到我這裡來、我就使你們得安息。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "Come to me, all <transChange type=\"added\">of you</transChange> who labor and are burdened, and I will give you rest."
+  },
+  "chapter": "11",
+  "verse": "28"
+ },
+ {
+  "ch": {
+   "book": "雅各書",
+   "text": "所以你們要彼此認罪、互相代求、使你們可以得醫治。<br>義人祈禱所發的力量、是大有功效的。<br> "
+  },
+  "en": {
+   "book": "James",
+   "text": "Therefore confess your sins to one another, and pray for one another, so that you may be healed. The effective prayer of a righteous person accomplishes much."
+  },
+  "chapter": "5",
+  "verse": "16"
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "你們要進窄門。因為引到滅亡，那門是寬的，路是大的，進去的人也多；<br>引到永生，那門是窄的，路是小的，找著的人也少。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "\"Enter through the narrow gate, because broad <transChange type=\"added\">is</transChange> the gate and spacious <transChange type=\"added\">is</transChange> the road that leads to destruction, and there are many who enter through it,"
+  },
+  "chapter": "7",
+  "verse": "13-14"
+ },
+ {
+  "ch": {
+   "book": "雅各書",
+   "text": "忍受試探的人是有福的，因為他經過試驗以後，<br>必得生命的冠冕，這是主應許給那些愛他之人的。 <br> "
+  },
+  "en": {
+   "book": "James",
+   "text": "Blessed <transChange type=\"added\">is</transChange> the personLiterally \"the man,\" but clearly in a generic sense here meaning \"someone, a person\" who endures testing, because <transChange type=\"added\">when he</transChange>*Here \"<transChange type=\"added\">when</transChange>\" is supplied as a component of the participle (\"is\") which is understood as temporal is approved he will receive the crown of life that heMost manuscripts read \"the Lord\" here, while others read \"God\" has promised to those who love him."
+  },
+  "chapter": "1",
+  "verse": "12"
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "要常常喜樂，不住的禱告。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "For the Son of Man is going to come in the glory of his Father with his angels, and at that time he will reward each one according to {what he has done}.Literally \"his activity\""
+  },
+  "chapter": "16",
+  "verse": "27"
+ },
+ {
+  "ch": {
+   "book": "路加福音",
+   "text": "耶穌設一個比喻，是要人常常禱告，不可灰心。 "
+  },
+  "en": {
+   "book": "Luke",
+   "text": "And he told them a parable to <transChange type=\"added\">show that</transChange> they must always pray and not be discouraged,"
+  },
+  "chapter": "18",
+  "verse": "1"
+ },
+ {
+  "ch": {
+   "book": "馬可福音",
+   "text": "凡你們禱告祈求的，無論是甚麼，只要信是得著的，就必得著。 "
+  },
+  "en": {
+   "book": "Mark",
+   "text": "For this <transChange type=\"added\">reason</transChange> I say to you, whatever you pray and ask for, believe that you have received <transChange type=\"added\">it</transChange>,*Here the direct object is supplied from context in the English translation and it will be <transChange type=\"added\">done</transChange> for you."
+  },
+  "chapter": "11",
+  "verse": "24 "
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "耶和華的眼目，看顧義人；祂的耳朵，聽他們的呼求。 "
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "The eyes of Yahweh <transChange type=\"added\">are</transChange> toward <transChange type=\"added\">the</transChange> righteous, and his ears toward their cry for help."
+  },
+  "chapter": "34",
+  "verse": "15 "
+ },
+ {
+  "ch": {
+   "book": "尼希米記",
+   "text": "我默禱天上的神... 王就允准我。 "
+  },
+  "en": {
+   "book": "Nehemiah",
+   "text": "Then the king said to me, \"What is your request?\" So I prayed to the God of the heavens."
+  },
+  "chapter": "2",
+  "verse": "4,8 "
+ },
+ {
+  "ch": {
+   "book": "但以理書",
+   "text": "雙膝跪在他神面前，禱告感謝，與素常一樣。 "
+  },
+  "en": {
+   "book": "Daniel",
+   "text": "Now {when}Literally \"as that\" Daniel realized that the document was signed, he went to his house ({now he had windows in his upper room that were open}Literally \"and windows were open to him in his upper room\" toward Jerusalem), and three times {daily}Literally \"in the day\" he knelt on his knees and prayed and <transChange type=\"added\">gave</transChange> praise before his God, {just as}Literally \"all because that\" he had been doing {previously}.Literally \"from before this\""
+  },
+  "chapter": "6",
+  "verse": "10 "
+ },
+ {
+  "ch": {
+   "book": "路加福音",
+   "text": "求主教導我們禱告。"
+  },
+  "en": {
+   "book": "Luke",
+   "text": "And it happened that while he was in a certain place praying, when he stopped a certain one of his disciples said to him, \"Lord, teach us to pray, just as John also taught his disciples.\""
+  },
+  "chapter": "11",
+  "verse": "1 "
+ },
+ {
+  "ch": {
+   "book": "以弗所書",
+   "text": "靠著聖靈，隨時多方禱告祈求，並要在此儆醒不倦，為眾聖徒祈求。 "
+  },
+  "en": {
+   "book": "Ephesians",
+   "text": "with all prayer and supplication praying at all times in the Spirit, and to this <transChange type=\"added\">end</transChange> being alert with all perseverance and supplication for all the saints,"
+  },
+  "chapter": "6",
+  "verse": "18 "
+ },
+ {
+  "ch": {
+   "book": "馬可福音",
+   "text": "總要儆醒禱告，免得入了迷惑；你們心靈固然願意，肉體郤軟弱了。 "
+  },
+  "en": {
+   "book": "Mark",
+   "text": "Stay awake and pray that you will not enter into temptation. The spirit <transChange type=\"added\">is</transChange> willing, but the flesh <transChange type=\"added\">is</transChange> weak!\""
+  },
+  "chapter": "14",
+  "verse": "38 "
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "只是我告訴你們、要愛你們的仇敵．為那逼迫你們的禱告。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "But I say to you, love your enemies and pray for those who persecute you,"
+  },
+  "chapter": "5",
+  "verse": "44 "
+ },
+ {
+  "ch": {
+   "book": "歌林多前書",
+   "text": "神是信實的，必不叫你們受試探過於所能受的。"
+  },
+  "en": {
+   "book": "First_Corinthians",
+   "text": "Temptation has not come upon you except <transChange type=\"added\">what is</transChange> common to humanity. But God <transChange type=\"added\">is</transChange> faithful, who will not permit you to be tempted beyond what you are able, but will also make a way out together with the temptation, <transChange type=\"added\">so that you</transChange> may be able to endure <transChange type=\"added\">it</transChange>. "
+  },
+  "chapter": "10",
+  "verse": "13"
+ },
+ {
+  "ch": {
+   "book": "約伯記",
+   "text": "我所說的是我不明白的；這些事太奇妙，是我不知道的。"
+  },
+  "en": {
+   "book": "Job",
+   "text": "'Who <transChange type=\"added\">is</transChange> this darkening counsel without knowledge?' Therefore I uttered, butHebrew \"and\" I did not understand; {things too wonderful for me},Literally \"wonderful things from me\" but I did not know."
+  },
+  "chapter": "42",
+  "verse": "3"
+ },
+ {
+  "ch": {
+   "book": "歌林多後書",
+   "text": "我的恩典夠你用的，因為我的能力，是在人的軟弱上顯得完全。"
+  },
+  "en": {
+   "book": "Second_Corinthians",
+   "text": "And he said to me, \"My grace is sufficient for you, because theA majority of later manuscripts read \"my\" power is perfected in weakness.\" Therefore rather I will boast most gladly in my weaknesses, in order that the power of Christ may reside in me."
+  },
+  "chapter": "12",
+  "verse": "9 "
+ },
+ {
+  "ch": {
+   "book": "啟示錄",
+   "text": "神也必擦去他們一切的眼淚。"
+  },
+  "en": {
+   "book": "Revelation",
+   "text": "because the Lamb <transChange type=\"added\">who is</transChange> in the midst of the throne will shepherd them and will lead them to springs of living waters, and God will wipe away every tear from their eyes.\"An allusion to Isa 25:8"
+  },
+  "chapter": "7",
+  "verse": "17"
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "耶穌... 就憐憫他們，治好了他們的病人。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "And <transChange type=\"added\">as he</transChange>*Here \"<transChange type=\"added\">as</transChange>\" is supplied as a component of the participle (\"got out\") which is understood as temporal got out, he saw the large crowd and had compassion on them and healed their sick."
+  },
+  "chapter": "14",
+  "verse": "14"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "耶和華試驗義人。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "Yahweh tests <transChange type=\"added\">the</transChange> righteous, but <transChange type=\"added\">the</transChange> wicked and <transChange type=\"added\">the</transChange> lover of violence his soul hates."
+  },
+  "chapter": "11",
+  "verse": "5"
+ },
+ {
+  "ch": {
+   "book": "約伯記",
+   "text": "難道我們從神手裏得福，不也受禍麼。"
+  },
+  "en": {
+   "book": "Job",
+   "text": "SoHebrew \"And\" he said to her, \"You speak like one of the foolish women speaks. Indeed, should we receive the good from God, butOr \"and\" not receive the evil?\" In all this, Job did not sin with his lips. "
+  },
+  "chapter": "2",
+  "verse": "10 "
+ },
+ {
+  "ch": {
+   "book": "歌林多後書",
+   "text": "我們四面受敵，郤不被困住......打倒了，郤不至死亡。"
+  },
+  "en": {
+   "book": "Second_Corinthians",
+   "text": "We are afflicted in every <transChange type=\"added\">way</transChange>, but not crushed; perplexed, but not despairing;"
+  },
+  "chapter": "4",
+  "verse": "8,9 "
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "求你使我清晨得聽你慈愛之言，因我倚靠你。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "Cause me to hear your loyal love in the morning, for I trust you. Cause me to know the way that I should go, for I lift up my soul to you."
+  },
+  "chapter": "143",
+  "verse": "8"
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "凡勞苦擔重擔的人，可以到我這裏來，我就使你們得安息。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "Come to me, all <transChange type=\"added\">of you</transChange> who labor and are burdened, and I will give you rest."
+  },
+  "chapter": "11",
+  "verse": "28"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "神是我們的避難所，是我們的力量，是我們在患難中隨時的幫助。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "God <transChange type=\"added\">is</transChange> our refuge and strength, a very sufficient help in troubles."
+  },
+  "chapter": "46",
+  "verse": "1 "
+ },
+ {
+  "ch": {
+   "book": "約翰福音",
+   "text": "我將這些事告訴你們，是要叫你們在我裏面有平安。<br>在世上你們有苦難；但你們可以放心，我已經勝了世界。"
+  },
+  "en": {
+   "book": "John",
+   "text": "I have said these <transChange type=\"added\">things</transChange> to you so that in me you may have peace. In the world you have affliction, but have courage! I have conquered the world.\" "
+  },
+  "chapter": "16",
+  "verse": "33 "
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "義人多有苦難，但耶和華救他脫離這一切。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "Fear Yahweh, <transChange type=\"added\">you</transChange> his saints,Or \"holy ones\" for there is no lack for <transChange type=\"added\">those who</transChange> fear him."
+  },
+  "chapter": "34",
+  "verse": "9"
+ },
+ {
+  "ch": {
+   "book": "羅馬書",
+   "text": "我想現在的苦楚，若比起將來要顯於我們的榮耀，就不足介意了。"
+  },
+  "en": {
+   "book": "Romans",
+   "text": "For I consider that the sufferings of the present time are not worthy <transChange type=\"added\">to be compared</transChange> with the glory that is about to be revealed to us."
+  },
+  "chapter": "8",
+  "verse": "18"
+ },
+ {
+  "ch": {
+   "book": "雅各書",
+   "text": "我的弟兄們，你們落在百般試煉中，都要以為大喜樂；<br>因為知道你們的信心經過試驗，就生忍耐。<br>但忍耐也當成功，使你們成全完備，亳無缺欠。"
+  },
+  "en": {
+   "book": "James",
+   "text": "Consider <transChange type=\"added\">it</transChange> all joy, my brothers, whenever you encounter various trials,"
+  },
+  "chapter": "1",
+  "verse": "2-4"
+ },
+ {
+  "ch": {
+   "book": "歌林多前書",
+   "text": "你們所遇見的試探，無非是人所能受的。<br>神是信實的，必不叫你們受試探過於所能受的。<br>在試探的時候，總要給你們開一條出路，叫你們能忍受得住。"
+  },
+  "en": {
+   "book": "First_Corinthians",
+   "text": "Temptation has not come upon you except <transChange type=\"added\">what is</transChange> common to humanity. But God <transChange type=\"added\">is</transChange> faithful, who will not permit you to be tempted beyond what you are able, but will also make a way out together with the temptation, <transChange type=\"added\">so that you</transChange> may be able to endure <transChange type=\"added\">it</transChange>. "
+  },
+  "chapter": "10",
+  "verse": "13"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "我受苦是與我有益，為要使我學習你的律例。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "<transChange type=\"added\">It is</transChange> good for me that I was afflicted, so that I might learn your statutes."
+  },
+  "chapter": "119",
+  "verse": "71"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "你是我藏身之處；你必保佑我脫離苦難，以得救的樂歌四面環繞我。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "You <transChange type=\"added\">are</transChange> my hiding place; from trouble you preserve me. <transChange type=\"added\">With</transChange> cries of deliverance you surround me. Selah"
+  },
+  "chapter": "32",
+  "verse": "7"
+ },
+ {
+  "ch": {
+   "book": "馬太福音",
+   "text": "為義受逼迫的人有福了，因為天國是他們的。<br>人若因我辱你們，逼迫你們，造各樣壞話毀謗你們，你們就有福了。"
+  },
+  "en": {
+   "book": "Matthew",
+   "text": "Blessed <transChange type=\"added\">are</transChange> those who are persecuted because of righteousness, because theirs is the kingdom of heaven."
+  },
+  "chapter": "5",
+  "verse": "10"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "求你顯出你奇妙的慈愛來，你是那右手拯救投靠你的，脫離起來攻擊他們的人。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "Show wondrously your acts of loyal love, O Savior of those who take refuge at your right handOr \"saving by your right hand those\" from those who rise up against <transChange type=\"added\">them</transChange>."
+  },
+  "chapter": "17",
+  "verse": "7"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "我遭遇災難的日子，他們來攻擊我，但耶和華是我的倚靠。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "They confronted me on the day of disaster, but Yahweh was my support."
+  },
+  "chapter": "18",
+  "verse": "18"
+ },
+ {
+  "ch": {
+   "book": "詩篇",
+   "text": "求耶和華施行拯救，我們呼求的時候，願王應允我們。"
+  },
+  "en": {
+   "book": "Psalms",
+   "text": "Rescue,Or \"Grant victory\" O Yahweh. Let the king answer us when we call."
+  },
+  "chapter": "20",
+  "verse": "9"
+ }
+]

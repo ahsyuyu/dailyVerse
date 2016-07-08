@@ -1,0 +1,15 @@
+body{
+	background-size: cover;
+}
+
+.verse{
+	color: white;
+	height:100%;
+	text-align: center;
+	padding-top: 25%;
+	padding-bottom: 25%;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin: -30px;
+	background-color:rgba(0,0,0,0.2); 
+}
