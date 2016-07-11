@@ -41,7 +41,8 @@ app.get('/api/verse', function(req, res) {
       console.error(err);
       process.exit(1);
     }
-    res.json(JSON.parse(data)[0]);
+    var v = Math.round(Math.random()*190);
+    res.json(JSON.parse(data)[v]);
   });
 });
 

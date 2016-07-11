@@ -2,14 +2,21 @@ body{
 	background-size: cover;
 }
 
-.verse{
-	color: white;
-	height:100%;
-	text-align: center;
-	padding-top: 25%;
-	padding-bottom: 25%;
-	padding-left: 10%;
-	padding-right: 10%;
-	margin: -30px;
+.verseCotainer{
+	position: fixed;
 	background-color:rgba(0,0,0,0.2); 
+	height: 100%;
+	width: 100%;
+}
+
+.verse{
+	padding-top:15%;
+	text-align: center;
+	color:white;
+	width:75%;
+    margin:auto;
+}
+
+.book{
+	text-align: right;
 }

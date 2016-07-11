@@ -58,13 +58,18 @@
             var verse = this.props.data.verse;
             var chBook = this.props.data.ch.book;
             var chText = this.props.data.ch.text;
-            var enBook = this.props.data.en.book;
+            var enBook = this.props.data.en.book.replace(/_/g," ");
             var enText = this.props.data.en.text;
           }
-          
+          console.log(enBook, chapter, verse);
           return(
-            <div className="verse">
-              <h1>{chText}</h1>
+            <div className="verseCotainer">
+              <div className="verse">
+                <h3 dangerouslySetInnerHTML={{__html: chText}} />
+                <h4 className="book">{chBook} {chapter}:{verse}</h4>
+                <h3 dangerouslySetInnerHTML={{__html: enText}} />
+                <h4 className="book">{enBook} {chapter}:{verse}</h4>
+              </div>
             </div>
           )
         }
